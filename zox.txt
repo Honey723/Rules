@@ -1,3 +1,4 @@
 payload:
 - DOMAIN-SUFFIX,zox.show
 - DOMAIN-SUFFIX,7o7o.cc
+- DOMAIN,ddplay-api.7o7o.cc
