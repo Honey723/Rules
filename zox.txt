@@ -1,5 +1,0 @@
-payload:
-- DOMAIN,ip.zox.show
-- DOMAIN,direct.zox.show
-- DOMAIN-SUFFIX,zox.show
-
